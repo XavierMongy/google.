@@ -49,3 +49,75 @@ nav a{
 
 	opacity: 1;
 }
+
+/*************Section*************
+*********************************/
+section{
+
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.google{
+	margin-top: 195px;
+	margin-left: 25%;
+	
+
+}
+
+.barre{
+	
+	margin-top: 20px;
+	width: 600px;
+	height: 38px;
+	border-radius: 0px;
+	border: 1px #D9D9D9 solid;
+}
+
+.barre:hover{
+
+	border: 1px rgba(0,0,0,0.3) solid;
+}
+
+.barre:focus{
+
+	border: 1px #4D90FE solid;
+}
+
+.search{
+	
+	margin-left: 25%;
+	margin-top: 30px;
+	height: 40px;
+	width: 160px;
+	color: #757575;
+	border-radius: 0px;
+	background-color: #F3F3F3;
+	border: 0px;
+	font-weight: bold;
+}
+
+.search:hover{
+
+	border: 1px grey solid;
+	color: black;
+}
+
+.chance{
+
+	margin-left: 5px;
+	height: 40px;
+	width: 160px;
+	color: #757575;
+	border-radius: 0px;
+	background-color: #F3F3F3;
+	border: 0px;
+	font-weight: bold;
+}
+
+.chance:hover{
+
+	border: 1px grey solid;
+	color: black;
+}
