@@ -214,3 +214,24 @@ section
 
 	width: 120px;
 }
+
+/***********Footer***********
+****************************/
+
+.right{
+
+	display: none;
+
+}
+
+.left{
+
+	display: none;
+}
+
+footer{
+
+	width: 100%;
+}
+
+}
