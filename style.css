@@ -177,3 +177,40 @@ li{
 
 	text-decoration: underline;
 }
+
+/************************************SMARTPHONES******************************/
+
+@media screen and (max-width: 730px){
+
+
+/*****************Section***********
+***********************************/
+
+.google{
+
+	margin-left: 5%;
+}
+
+
+section
+{
+	margin-top: 10px;
+	width: 300px;
+	font-size: 6px;
+}
+
+.barre{
+
+	width: 100%;
+}
+
+.search{
+
+	margin-left: 20px;
+	width: 130px
+}
+
+.chance{
+
+	width: 120px;
+}
