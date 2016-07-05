@@ -6,3 +6,46 @@
 	font-size: small;
 	text-decoration: none;
 }
+
+/**************Header*************
+*********************************/
+
+
+nav a{
+
+	margin-top: 10px;
+	float: right;
+	margin-right: 20px;
+	color: #666666;
+	
+}
+
+.connect{
+
+	margin-top: 2px;
+	float: right;
+	margin-right: 30px;
+	height: 30px;
+	width: 90px;
+	color: white;
+	border-radius: 0px;
+	background-color: #4485F5;
+	border: 0px;
+	font-weight: bold;
+}
+
+.app{
+
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+
+
+
+
+ .app:hover{
+
+	opacity: 1;
+}
